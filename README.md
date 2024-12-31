@@ -12,5 +12,5 @@ I love learning new things and doing research<br>I'm currently insteresed in psy
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rita-space&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-space&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- stop stalking me. -->
 
